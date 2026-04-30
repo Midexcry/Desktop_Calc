@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: Calc.Calc
+Class-Path: .
+Automatic-Module-Name: Calc.Calc
