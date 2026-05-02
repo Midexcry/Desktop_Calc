@@ -100,7 +100,7 @@ public class Calc extends Application {
                 double num2 = 0;
 
                 String operatorValue = calculation_method[0];
-                if (!operatorValue.equals("!")) {
+                if (! operatorValue.equals("%") && ! operatorValue.equals("!")) {
                     if (text2.isEmpty()) {
                         output.setText("请输入第二个数字");
                         return;
