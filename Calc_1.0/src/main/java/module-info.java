@@ -1,8 +1,7 @@
 module org.zeros.calc {
     requires javafx.controls;
-    requires javafx.fxml;
+    requires javafx.graphics;
 
 
-    opens org.zeros.calc to javafx.fxml;
     exports org.zeros.calc;
 }
