@@ -1,4 +1,6 @@
 # Desktop calculation
+<a href="https://github.com/Midexcry/Desktop_Calc/blob/main/README.md">English</a> <a href="https://github.com/Midexcry/Desktop_Calc/blob/main/README-zh.md">中文</a>
+
 This Calc can run on the desktop, and it can solve some problem
     
 # Here is code
