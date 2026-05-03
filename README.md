@@ -1,4 +1,4 @@
-# Desktop_Calc
+# Desktop calculation
 This Calc can run on the desktop, and it can solve some problem
     
 # Here is code
